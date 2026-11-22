@@ -1,0 +1,202 @@
+{
+  "brand": "Dress Unik Collection",
+  "contactMode": "whatsapp",
+  "phone": "9613227630",
+  "displayPhone": "+961 3 227 630",
+  "instagram": "https://www.instagram.com/dress.unik.collection/",
+  "hours": "Visits by appointment — contact Dress Unik to arrange a time",
+  "hero": "/images/photo-6b29f096005ce6f9.jpg",
+  "story": "/images/photo-c79c928c892304f8.jpg",
+  "galleryImages": [
+    "/images/photo-51bdf1f22f493124.jpg",
+    "/images/photo-5cd991876ee4ed36.jpg",
+    "/images/photo-1b26986178813640.jpg",
+    "/images/photo-e9b6678ca275bd3c.jpg",
+    "/images/photo-9a00d2007076f80e.jpg",
+    "/images/photo-c79c928c892304f8.jpg",
+    "/images/photo-4e1d52ae057a1a56.jpg",
+    "/images/photo-9587733879f32781.jpg",
+    "/images/photo-876ccbf27b0b8f11.jpg",
+    "/images/photo-c4c289e32e7c0aeb.jpg",
+    "/images/photo-6b29f096005ce6f9.jpg"
+  ],
+  "products": [
+    {
+      "id": "tailored-blazer-edit",
+      "name": "Tailored Blazer Edit",
+      "collection": "Tailored layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Navy and deep-brown single-breasted blazers shown on hangers at the boutique. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-51bdf1f22f493124.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/Df-Bp4GOrni/"
+    },
+    {
+      "id": "grey-high-neck-casual-look",
+      "name": "Grey High Neck Casual Look",
+      "collection": "Everyday looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey high-neck long-sleeved top with light sleeve accents, styled with burgundy slim trousers. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-5cd991876ee4ed36.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/Df7ikdLzHc2/"
+    },
+    {
+      "id": "dark-tailored-trouser-edit",
+      "name": "Dark Tailored Trouser Edit",
+      "collection": "Tailored layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Dark tailored trousers and a structured grey top shown together on hangers. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-1b26986178813640.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/Df7gVtdzXR4/"
+    },
+    {
+      "id": "grey-patterned-high-neck-top",
+      "name": "Grey Patterned High Neck Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey-and-black patterned high-neck long-sleeved top styled with dark wide-leg trousers. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-e9b6678ca275bd3c.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/Df7UdsjoTtM/"
+    },
+    {
+      "id": "dark-sleeveless-casual-look",
+      "name": "Dark Sleeveless Casual Look",
+      "collection": "Everyday looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark sleeveless high-neck top styled with dark trousers and a light scarf; a burgundy garment is shown alongside. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-9a00d2007076f80e.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/Df7RNn4IAx7/"
+    },
+    {
+      "id": "brown-high-neck-top",
+      "name": "Brown High Neck Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A fitted brown high-neck long-sleeved top styled with light blue jeans. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-4e1d52ae057a1a56.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/DfzqQCIMiIj/"
+    },
+    {
+      "id": "charcoal-open-layer",
+      "name": "Charcoal Open Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark open-front layer with a textured-looking edge and collar, styled over a berry top and blue jeans. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-9587733879f32781.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/Dfzmcxhsitl/"
+    },
+    {
+      "id": "berry-long-sleeve-top",
+      "name": "Berry Long Sleeve Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A deep berry long-sleeved fitted top styled with blue wide-leg jeans. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-876ccbf27b0b8f11.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/DfzmjQlMdtu/"
+    },
+    {
+      "id": "brown-button-top-look",
+      "name": "Brown Button Top Look",
+      "collection": "Everyday looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown button-front long-sleeved top styled with pale tailored trousers. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-c4c289e32e7c0aeb.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/DfzlxJKs6_O/"
+    },
+    {
+      "id": "striped-top-dark-trouser-look",
+      "name": "Striped Top Dark Trouser Look",
+      "collection": "Everyday looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light-and-dark striped long-sleeved top styled with dark tailored trousers. Confirm the exact reference, pieces included, size, colour, current price and availability with Dress Unik. Accessories and separate styling pieces shown in photographs are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-6b29f096005ce6f9.jpg"
+      ],
+      "source": "https://www.instagram.com/dress.unik.collection/reel/DfzlbMLMJS1/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Dbayeh, Lebanon — visits by appointment",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dress+Unik+Collection+Dbayeh+Lebanon"
+    }
+  ]
+}
